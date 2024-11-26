@@ -55,20 +55,19 @@ ____
 ```shell
 git clone https://github.com/Steel-1455/devops-sample-django-app.git
 ```
-2 - Переходим в папку с проектом
+2 - Переходим в папку с проектом:
 ```shell
 cd devops-sample-django-app
 ```
-3 - Запускаем приложение с помощью docker-compose
+3 - Запускаем приложение с помощью docker-compose:
 ```shell
 docker compose up
 ```
-4 - Открываем браузер и вводим в поисковую строку
+4 - Открываем браузер и вводим в поисковой строке:
 ```shell
 localhost:8001
 ```
-5 - Завершаем работу приложения
+5 - Завершаем работу приложения:
 ```shell
 docker compose dowm
 ```
-
