@@ -63,7 +63,10 @@ cd devops-sample-django-app
 ```shell
 docker compose up
 ```
-4 - Открываем браузер и вводим в поисковую строку "localhost:8001"
+4 - Открываем браузер и вводим в поисковую строку
+```shell
+localhost:8001
+```
 5 - Завершаем работу приложения
 ```shell
 docker compose dowm
