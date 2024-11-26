@@ -57,7 +57,7 @@ git clone https://github.com/Steel-1455/devops-sample-django-app.git
 ```
 2 - Переходим в папку с проектом
 ```shell
-cd devops-sample-django-app.git
+cd devops-sample-django-app
 ```
 3 - Запускаем прилодение с помощью docker-compose
 ```shell
