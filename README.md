@@ -49,3 +49,23 @@ python3 manage.py migrate
 ```shell
 python3 manage.py runserver 0.0.0.0:8000
 ```
+____
+
+1 - Клонируем репозиторий:
+```shell
+git clone https://github.com/Steel-1455/devops-sample-django-app.git
+```
+2 - Переходим в папку с проектом
+```shell
+cd devops-sample-django-app.git
+```
+3 - Запускаем прилодение с помощью docker-compose
+```shell
+docker compose up
+```
+4 - Открываем браузер и вводим в поисковую строку "localhost:8001"
+5 - Для того чтобы завершить docker-compose
+```shell
+docker compose dowm
+```
+
